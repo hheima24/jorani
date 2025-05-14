@@ -584,3 +584,6 @@ $config['enable_history'] = TRUE;
 $config['enable_apm_rum'] = FALSE;
 //Display navigation timing to user. You need a browser supporting WebTiming API
 $config['enable_apm_display'] = FALSE;
+
+$config['encryption_enabled'] = FALSE;
+
